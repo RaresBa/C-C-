@@ -1,0 +1,2 @@
+
+        int random=rand() % nwords;
