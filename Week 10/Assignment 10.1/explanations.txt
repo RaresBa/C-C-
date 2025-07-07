@@ -1,0 +1,14 @@
+1. The errors that appear after removing "usingnamespace std;":
+
+After removing the "usingnamespace std;" the compailer does not recognize
+multiple commands like "string", "cout", "endl". Because they are standard
+commands every command needs to have a "std:: " before them, this would solve 
+the erros. By using "usingnamespace std;" the comapiler automaticaly puts
+"std::" before every standard command.
+
+2. The errors that appear after removing "Critter:: " from the "setName" method:
+
+After removing "Critter:: " from the "setName" method the compailer does not recognize
+the method "setName" which comes from the "Critter.h" header file, from the class
+Critter. The comapiler does not recognize the method without a mention regarding from
+which class the command is. 
