@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695484604 source:c:\users\rares\desktop\programare\assigment 3.11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
