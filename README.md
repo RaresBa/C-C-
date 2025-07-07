@@ -1,6 +1,6 @@
 # C and C++ Bachelor Course Assignments
 
-This repository contains the assignments I completed for one of my first bachelor-level courses in **C and C++ programming**.
+This repository contains the assignments I completed as a **first-year Computer Science student** for one of my introductory courses in **C and C++ programming**.
 
 ## Disclaimer
 
